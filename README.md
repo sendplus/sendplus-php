@@ -1,8 +1,9 @@
 # Sendplus PHP Package
 
-[![Latest Version](https://img.shields.io/github/release/thephpleague/skeleton.svg?style=flat-square)](https://github.com/sendplus/sendplus-php/releases)
+[![Latest Version](https://img.shields.io/github/v/release/sendplus/sendplus-php?style=flat-square)](https://github.com/sendplus/sendplus-php/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Total Downloads](https://img.shields.io/packagist/dt/league/skeleton.svg?style=flat-square)](https://packagist.org/packages/sendplus/sendplus-php)
+[![Total Downloads](https://img.shields.io/packagist/dt/sendplus/sendplus-php.svg?style=flat-square)](https://packagist.org/packages/sendplus/sendplus-php)
+
 
 This is Sendplus official PHP package to easily interacting with sendplus client API.
 
