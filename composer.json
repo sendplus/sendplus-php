@@ -1,0 +1,36 @@
+{
+    "name": "sendplus/sendplus-php",
+    "description": "PHP package provides all methods of Sendplus API",
+    "keywords": [
+        "sendplus",
+        "php",
+        "email client api"
+    ],
+    "homepage": "https://sendplus.net",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pemiphilo",
+            "email": "pemiphilo@gmail.com",
+            "homepage": "http://shima.dev",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=7.1",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sendplus\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Sendplus\\Test\\": "tests"
+        }
+    }
+}
