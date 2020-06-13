@@ -9,7 +9,7 @@ class Configuration
     /**
      * @var string
      */
-    private $endpoint = "https://api.sendplus.me/api/v1/";
+    private $endpoint = "https://api.sendplus.me/v1/";
 
     /**
      * @var string
